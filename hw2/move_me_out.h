@@ -1,4 +1,3 @@
-#ifndef INC_01_HELLO_WORLD_MOVE_ME_OUT_H
-#define INC_01_HELLO_WORLD_MOVE_ME_OUT_H
+#pragma once
+
 void todo_move_me_out();
-#endif //INC_01_HELLO_WORLD_MOVE_ME_OUT_H
